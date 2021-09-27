@@ -3,8 +3,7 @@ for i in range(50):
     lst.append(i+1)
 
 lst.sort(reverse=True)
- = lst[0]
-first = 
+first = lst[0]
 second = lst[1]
 s = 0
 p = 0
